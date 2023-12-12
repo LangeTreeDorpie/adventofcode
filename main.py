@@ -12,6 +12,8 @@ import day8.part1
 import day8.part2
 import day9.part1
 import day9.part2
+import day10.part1
+import day10.part2
 
 
 def print_hi(name):
@@ -32,6 +34,8 @@ if __name__ == '__main__':
     # day8.part1.resolve()
     # day8.part2.resolve()
     # day9.part1.resolve()
-    day9.part2.resolve()
+    # day9.part2.resolve()
+    day10.part1.resolve()
+    # day10.part2.resolve()
 
     print("--- %s seconds ---" % (time.time() - start_time))
